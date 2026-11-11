@@ -1,0 +1,6 @@
+{
+  "name": "Agent 04 — Business Strategy & Growth Analyst",
+  "description": "Executive strategic workstation for Agent 04 reporting directly to the CEO. Evaluates business models, portfolio products, 0-100 opportunity scoring, financial feasibility, and generates structured executive reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
